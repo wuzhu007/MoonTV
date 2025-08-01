@@ -1,0 +1,2 @@
+name = "moon-tv"
+compatibility_flags = ["nodejs_compat"]
